@@ -1,8 +1,15 @@
-Conversational RAG with PDF and Chat History
-This project enables users to upload PDFs and interact with their content through a conversational AI tool. Features include:
+Conversational RAG with PDF & Chat History + YouTube Summarizer
+This repository contains two tools built with LangChain and Streamlit:
 
-PDF Upload: Extract and query content from uploaded PDF files.
-Conversational Search: Retrieve relevant info from documents via chat.
-Chat History: Maintain context for more accurate responses.
-Powered by RAG: Uses Groq’s Llama model and HuggingFace embeddings for efficient question-answering.
-Built with LangChain and Streamlit.
+Conversational RAG with PDF and Chat History
+
+Upload PDFs and query content via conversational AI.
+Maintains chat history for context-aware responses.
+Powered by RAG using Groq’s Llama model and HuggingFace embeddings.
+YouTube & Website Summarizer
+
+Summarize YouTube videos or website content from a URL.
+Extracts transcripts or text, then provides concise summaries.
+How to Use:
+Conversational RAG: Upload a PDF, ask questions, and interact with the document.
+Summarizer: Input a URL (YouTube or website), and receive a summary.
